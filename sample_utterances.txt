@@ -1,0 +1,15 @@
+FetchBucketsIntent how many s three buckets do i have
+
+ListBucketsIntent list my s three buckets
+
+CreateBucketsIntent create {bucketname} bucket
+
+DeleteBucketsIntent get rid of {bucketname}
+DeleteBucketsIntent get rid of {bucketname} bucket
+DeleteBucketsIntent remove {bucketname}
+DeleteBucketsIntent remove {bucketname} bucket
+DeleteBucketsIntent delete {bucketname}
+DeleteBucketsIntent delete {bucketname} bucket
+
+
+
